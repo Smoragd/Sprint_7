@@ -10,6 +10,10 @@ public class UsefulData {
     // uri ресурса
     public static final String BASE_URI = "https://qa-scooter.praktikum-services.ru/";
 
+    // константы для api
+    public static final String COURIER_API = "/api/v1/courier";
+    public static final String ORDERS_API = "/api/v1/orders";
+
     // блок для генерации рандомных тестовых значений:
     // список всех цифр и латинских букв:
     private static final String CHARACTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
